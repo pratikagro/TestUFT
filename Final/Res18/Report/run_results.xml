@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>The DataTable.ImportSheet operation failed. C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls path does not exist.</Name>
+    <ErrorText>The DataTable.ImportSheet operation failed. C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls path does not exist.</ErrorText>
+    <Description>&lt;BR/&gt;Line (9): &amp;quot;Datatable.ImportSheet &amp;quot;C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls&amp;quot;, &amp;quot;Config&amp;quot;, &amp;quot;Config&amp;quot; 'Importing he Config Sheet in the Datatable&amp;quot;.</Description>
+    <StartTime>2020-04-09 22:17:53</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[action]]></ModuleName>
+          <FileName><![CDATA[action]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Datatable.ImportSheet "C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls", "Config", "Config"]]></Scripts>
+          <LineNo><![CDATA[9]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>ad87027fc5b74cf0b6a130e36243de56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\46c0affa-032e-4ba7-97be-c433cbeaccdd.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>The DataTable.ImportSheet operation failed. C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls path does not exist.</Name>
+    <ErrorText>The DataTable.ImportSheet operation failed. C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls path does not exist.</ErrorText>
+    <Description>&lt;BR/&gt;Line (9): &amp;quot;Datatable.ImportSheet &amp;quot;C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls&amp;quot;, &amp;quot;Config&amp;quot;, &amp;quot;Config&amp;quot; 'Importing he Config Sheet in the Datatable&amp;quot;.</Description>
+    <StartTime>2020-04-09 22:18:23</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[action]]></ModuleName>
+          <FileName><![CDATA[action]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Datatable.ImportSheet "C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xls", "Config", "Config"]]></Scripts>
+          <LineNo><![CDATA[9]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>ad87027fc5b74cf0b6a130e36243de56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\10631570-3973-4621-ba99-2e9da102629e.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>The DataTable.ImportSheet operation failed. C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Driver.xls path does not exist.</Name>
+    <ErrorText>The DataTable.ImportSheet operation failed. C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Driver.xls path does not exist.</ErrorText>
+    <Description>&lt;BR/&gt;Line (10): &amp;quot;Datatable.ImportSheet &amp;quot;C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Driver.xls&amp;quot;, &amp;quot;Driver&amp;quot;, &amp;quot;Driver&amp;quot; ' Importing the Driver Sheet in the Datatable&amp;quot;.</Description>
+    <StartTime>2020-04-09 22:18:25</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[action]]></ModuleName>
+          <FileName><![CDATA[action]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Datatable.ImportSheet "C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Driver.xls", "Driver", "Driver"]]></Scripts>
+          <LineNo><![CDATA[10]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>ad87027fc5b74cf0b6a130e36243de56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\8aaa328c-400d-4b18-ada0-a8571464bc65.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2020-04-09 22:18:28</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>9c0c497f13ff4237a07fae265716358f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>action</Name>
+    <Description />
+    <StartTime>2020-04-09 22:17:53</StartTime>
+    <Duration>35</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>bd6605f333f74e168acc8652d5e050b1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2020-04-09 22:17:53</StartTime>
+    <Duration>35</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>3112e3944c4b4a7f85ae68760a457ce8</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Final</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>15.0</ToolVersion>
+    <ToolVersionStringLiteral>15.0</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2020-04-09 22:17:51</StartTime>
+    <Duration>37</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>2b9768615e874c20bb917d851a75d003</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>thispc</User>
+      <CpuInfo>Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>4001</TotalMemory>
+      <HostName>PRATIK</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res18</ResultName>
+    <RunStartTime>2020-04-09 22:17:51</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>15.0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
