@@ -1,16 +1,14 @@
 ﻿
 
-Dim StrConfigFlagStat,StrConfigTcId,StrRowCntDriver,StrDriverTcId,StrColCntDriver,StrFuncName
 
- @@ hightlight id_;_1909830256_;_script infofile_;_ZIP::ssf35.xml_;_
- @@ hightlight id_;_1909846528_;_script infofile_;_ZIP::ssf33.xml_;_
+Dim StrConfigFlagStat,StrConfigTcId,StrRowCntDriver,StrDriverTcId,StrColCntDriver,StrFuncName
  @@ hightlight id_;_1909846672_;_script infofile_;_ZIP::ssf34.xml_;_
 Datatable.AddSheet("Config") '' Adding the config Sheet in the Datatable
 Datatable.AddSheet("Driver") ' Adding the Driver Sheet in the Datatable
 Datatable.AddSheet("TestData") 'Adding the TestData Sheet in the Datatable
 
-Datatable.ImportSheet "C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Config.xlsx", "Config", "Config" 'Importing he Config Sheet in the Datatable
-Datatable.ImportSheet "C:\Users\thispc\Documents\Unified Functional Testing\man\Config\Driver.xlsx", "Driver", "Driver" ' Importing the Driver Sheet in the Datatable
+Datatable.ImportSheet "C:\Users\thispc\branchgit\TestUFT\Config\Config.xlsx", "Config", "Config" 'Importing he Config Sheet in the Datatable
+Datatable.ImportSheet "C:\Users\thispc\branchgit\TestUFT\Config\Driver.xlsx", "Driver", "Driver" ' Importing the Driver Sheet in the Datatable
 'Datatable.ImportSheet "C:\Users\thispc\Documents\Unified Functional Testing\man\TestData\TestData.xlsx", "TC1", "TestData" 'Importing the TestData Sheet in the Datatable
 
 introw = datatable.GetSheet("Config").GetRowCount ''Getting the rowcount of the Config Sheet
